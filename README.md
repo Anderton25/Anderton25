@@ -2,7 +2,7 @@
 - 🔄 Desejo trabalhar como Back-End;
 - 🧑‍🎓Sou estudante de Engenharia de Software;
 - 🔭Estudando Python, PostgreSQL, MongoDB & Django;
-- 📫Meu email: andertonamorim@gmail.com.
+- 📫Meu email: andertonamorim@gmail.com
 
 ##
 
