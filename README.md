@@ -1,12 +1,13 @@
 ## Olá! eu sou o Anderton Nascimento 👋
-- 🧑‍🎓Sou estudante de Engenharia de Software
-- 🔄 Desejo trabalhar como Back-End
-- 🐍Estudando Python
+- 🔄 Desejo trabalhar como Back-End;
+- 🧑‍🎓Sou estudante de Engenharia de Software;
+- 🔭Estudando Python, PostgreSQL, MongoDB & Django;
+- 📫Meu email: andertonamorim@gmail.com.
 
 ##
 
 
-<div align=>
+<div align="center">
   <a href="https://github.com/Anderton25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderton25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderton25&layout=compact&langs_count=7&theme=dark"/>
@@ -26,10 +27,9 @@
   ##
  
 <div> 
-   <a href = "mailto:andertonamorim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></>
-    <a href="https://www.linkedin.com/in/anderton-nascimento-amorim-186574180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://www.twitch.tv/4nderton" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/qA98Neas" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:andertonamorim@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png" target="_blank"></>
+    <a href="https://www.linkedin.com/in/anderton-nascimento-amorim-186574180/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"></a> 
+     
  
 
  
