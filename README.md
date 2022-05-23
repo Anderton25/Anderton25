@@ -3,6 +3,8 @@
 - 🔄 Desejo trabalhar como Back-End
 - 🐍Estudando Python
 
+##
+
 
 <div align="center">
   <a href="https://github.com/Anderton25">
@@ -19,6 +21,8 @@
   <img align="center" alt="And-css" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=115&color=6b6666">
    <img align="center" alt="And-html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=115&color=6b6666">
     
+  
+
   ##
  
 <div> 
