@@ -17,10 +17,6 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="And-py" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=200&color=currentColor">
-  <img align="center" alt="And-dj" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=200&color=currentColor">
-  <img align="center" alt="And-pt" height="30" width="40" src="https://icongr.am/devicon/postgresql-plain.svg?size=178&color=6b6666">
-  <img align="center" alt="And-mb" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=180&color=6b6666">
-  <img align="center" alt="And-red" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=148&color=6b6666">
   <img align="center" alt="And-jv" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=6b6666">
   <img align="center" alt="And-css" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=115&color=6b6666">
    <img align="center" alt="And-html" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=115&color=6b6666">
